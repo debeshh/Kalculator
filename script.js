@@ -27,8 +27,13 @@ const overlay = document.createElement("div");
 overlay.id = "overlay-card";
 overlay.innerHTML = `
   <div class="card">
-    <h2>made by Debesh</h2>
-    <a href=''
+    <h2>made by Debesh.</h2>
+    <div class="links">
+        <a href='https://github.com/debeshh/Kalculator'><img src="git.svg"/></a>
+        <a href='https://www.instagram.com/debeessh/'><img src="insta1.svg"/></a>
+        <a href='https://debeshbehera.netlify.app/'><img id="profile" src="profile-men.gif"/></a>
+    </div>
+    
     <button id="close-overlay">x</button>
   </div>
 `;
