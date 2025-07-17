@@ -42,9 +42,9 @@ Calculator/
 
 ---
 
-## 📸 Preview
+## Preview
 
-![Calculator Preview](https://kalculatoor.netlify.app/))
+https://kalculatoor.netlify.app/
 
 ---
 
