@@ -27,7 +27,7 @@ const overlay = document.createElement("div");
 overlay.id = "overlay-card";
 overlay.innerHTML = `
   <div class="card">
-    <h2>made by Debesh.</h2>
+    <h2>Made by Debesh.</h2>
     <div class="links">
         <a href='https://github.com/debeshh/Kalculator'><img src="assets/git.svg"/></a>
         <a href='https://www.instagram.com/debeessh/'><img src="assets/insta1.svg"/></a>

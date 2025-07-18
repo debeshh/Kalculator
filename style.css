@@ -144,3 +144,19 @@ img{
     border-radius: 10px; */
 
 }
+
+@media screen and (max-width: 600px) {
+    .container {
+        width: 75%;
+        height: auto;
+        padding: 10px;
+    }
+
+    input {
+        font-size: 20px;
+    }
+
+    button {
+        font-size: 14px;
+    }
+}
